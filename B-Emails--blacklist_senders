@@ -1,2 +1,2 @@
-www-data@*
-root@*
+^www-data@.*
+^root@.*
